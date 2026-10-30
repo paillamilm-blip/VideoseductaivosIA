@@ -1,0 +1,6 @@
+{
+  "name": "SciMotion Studio - Generador de Videos Educativos STEM con IA",
+  "description": "Automatizador inteligente de videos educativos para matemáticas, física e ingeniería con explicaciones visuales dinámicas y guiones pedagógicos detallados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
